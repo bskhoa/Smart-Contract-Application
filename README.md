@@ -9,6 +9,11 @@ Hợp đồng thông minh sẽ kiểm tra tiền của người mua từ thời 
   + Nếu người mua thanh toán sai tiền thì hợp đồng thông minh sẽ triển khai lỗi giao dịch không thành công  
   + Nếu không, hàm TransferLotPrice sẽ được thực thi để chuyển tiền cho người bán  
 
+<p align="center">
+  <img width="400" src="https://github.com/bskhoa/resource/blob/main/Smart%20Contract/Img/Activity.png"/>
+</p>
+
+
 ##  Danh sách thành viên
 <table style="width:100%">
 <tr>
